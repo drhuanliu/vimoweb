@@ -13,8 +13,8 @@ theme = "freelancer"
   aboutRight = "You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!"
 
 [params.location]
-  lineOne = "1172 Castro St"
-  lineTwo = "Mountain View, CA 94040" 
+  lineOne = "3120 Scott Blvd #130"
+  lineTwo = "Santa Clara, CA 95054" 
 
 [params.sbform]
       token = ""
