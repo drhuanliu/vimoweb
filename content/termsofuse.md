@@ -1,7 +1,6 @@
 ---
 title: "Termsofuse"
 date: 2022-12-31T15:00:56-08:00
-draft: true
 ---
 
 # Terms and Conditions ("Terms")

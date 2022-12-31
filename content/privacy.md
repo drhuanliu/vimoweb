@@ -1,9 +1,7 @@
 ---
 title: "Privacy"
 date: 2022-12-31T10:16:26-08:00
-draft: true
-type: "page" 
-layout: "baseof"
+
 ---
 
 # PRIVACY POLICY
