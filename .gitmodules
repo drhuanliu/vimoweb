@@ -3,4 +3,4 @@
 	url = https://github.com/budparr/gohugo-theme-ananke.git
 [submodule "themes/freelancer"]
 	path = themes/freelancer
-	url = https://github.com/joseph-mccarthy/hugo-bootstrap-freelancer-template
+	url = https://github.com/startbootstrap/startbootstrap-freelancer
